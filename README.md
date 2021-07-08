@@ -1,4 +1,4 @@
 # spaCY
 
-<img src="spaCy.jfif" width=50px, height=100px>
+<img src="spaCy.jfif" width=500px, height=100px>
 A high end NLP tool helps to get the output the given sentence..
